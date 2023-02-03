@@ -1,6 +1,6 @@
 f = open('27_B.txt')
 n = int(f.readline())
-k = 43
+k = 999
 tail_sum = [0] + [None] * (k - 1)
 tail_len = [0] * k
 mx = 0
