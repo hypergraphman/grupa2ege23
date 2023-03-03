@@ -7,4 +7,4 @@ def divs(n):
     return sorted(r)
 
 
-print(divs(100))
+print(divs(2187))
